@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const data = require('./data');
 
-const uri = "mongodb+srv://ultrauser:ultrapass@cluster0.b1zfl.mongodb.net/ultrateste?retryWrites=true&w=majority";
+const uri = "";
 
 mongoose
     .connect(
